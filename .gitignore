@@ -1,0 +1,6 @@
+hugo.toml
+.hugo_build.lock
+
+# Hugo
+resources
+public
