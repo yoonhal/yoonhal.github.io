@@ -1,8 +1,0 @@
-/* Increase the default font size */
-html * {
-    font-size: 14pt;
-  }
-
-.prose *  {
-    text-align: justify;
-}
