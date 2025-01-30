@@ -1,0 +1,15 @@
+{{ if .IsNamedParams }}
+<iframe src="https://drive.google.com/file/d/{{ .Get "id" }}/{{ .Get "type" }}"
+    width="{{ default "640" (.Get "width") }}"
+    height="{{ default "360" (.Get "height") }}"
+    frameborder="0"
+    allow="fullscreen"
+    allow="autoplay">iframe>
+{{ else }}
+<iframe src="https://drive.google.com/file/d/{{ .Get 0 }}/{{ .Get 1 }}"
+    width="{{ default "640" (.Get 2) }}"
+    height="{{ default "360" (.Get 3) }}"
+    frameborder="0"
+    allow="fullscreen"
+    allow="autoplay">iframe>
+{{ end }}
