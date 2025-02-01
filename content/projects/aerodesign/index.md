@@ -69,11 +69,11 @@ In the image above, excessive buckling and local failure can be seen at a load f
 ## Regular class
 
 ### 2022-23 "Indomitable"
-<img class="thumbnailshadow" src="img/indomitable.jpg"/>
-<img class="thumbnailshadow" src="img/indomitable_solo.jpg"/>
+<img class="thumbnailshadow" src="img/indomitable.png"/>
+<img class="thumbnailshadow" src="img/indomitable_solo.png"/>
 
 ### 2021-22 "Snorlax"
-<img class="thumbnailshadow" src="img/snorlax_team.jpg"/>
+<img class="thumbnailshadow" src="img/snorlax_team.png"/>
 
 ## Video
 Watch it fly (and land):
