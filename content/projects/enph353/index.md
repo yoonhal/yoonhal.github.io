@@ -4,8 +4,6 @@ description: A project course designing robots.
 date: 2024-04-10
 ---
 
-# (This page is a WIP)
-
 ## How?
 - Designed, generated data, and trained a CNN to detect alphanumeric characters from an image.
 - Utilized OpenCV to process and filter images from a simulated camera feed in Gym Gazebo.
