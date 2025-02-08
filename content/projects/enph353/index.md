@@ -2,6 +2,7 @@
 title: Intelligent AI Detective
 description: A project course designing robots.
 date: 2024-04-10
+weight: 3
 ---
 
 ## How?

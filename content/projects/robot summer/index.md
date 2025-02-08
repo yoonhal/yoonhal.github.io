@@ -23,6 +23,8 @@ one of the fastest robots (finishing laps in ~10 seconds).
 - Spearheaded the design and oversaw the manufacturing of the final aluminum chassis
 - Developed the ackerman-like steering geometry
 
+<img class="thumbnailshadow" src="img/solidmodel.png"/>
+
 ## Electrical Contributions
 - Soldered and tested four custom full H-Bridges for motor control
 - Validated circuit designs in Altium and troubleshot EMI noise issues from motor and more
